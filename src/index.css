@@ -1,0 +1,9 @@
+/* universal styling */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* to hide the overflow in x-axis */
+  overflow-x: hidden;
+  font-family: 'Solway', serif;
+}
